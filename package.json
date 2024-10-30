@@ -1,0 +1,19 @@
+{
+  "name": "com.woolholm.unitytoolbox",
+  "displayName": "Unity Toolbox",
+  "description": "Unity Toolbox is a growing collection of methods and tools to help you work faster and more efficiently in Unity.",
+  "version": "1.0.0",
+  "keywords": [
+    "unity",
+    "editor",
+    "tools",
+    "toolbox"
+  ],
+  "category": "editor extensions",
+  "dependencies": {},
+  "author": {
+    "name": "woolholm",
+    "url": "https://github.com/woolholm"
+  },
+  "documentationUrl": "https://github.com/woolholm/Unity-Toolbox/README.md"
+}
